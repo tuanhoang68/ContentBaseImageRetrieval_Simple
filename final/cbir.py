@@ -14,7 +14,7 @@ length_feature_vector = 91  # Độ dài vector đặc trưng
 
 path_feature_vectors = 'data_feature_vectors.npy'
 path_feature_vector_names = 'data_feature_vector_names.npy'
-path_image_query = 'C:/Users/ADM/Desktop/HK_8/He_CSDLDPT/btl_nhom3/Code/CBIR/begin/421705.jpg'
+path_image_query = 'CBIR/begin/421705.jpg'
 path_image_query_Separated = path_image_query.replace(".jpg", end_name)
 
 
