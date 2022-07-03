@@ -20,7 +20,7 @@ def getFeatureVector(image_path):
 
 
 def main():
-    image_path = "C:/Users/ADM/Desktop/HK_8/He_CSDLDPT/btl_nhom3/Code/CBIR/begin/ff.jpg"
+    image_path = "CBIR/begin/ff.jpg"
     tmp = getFeatureVector(image_path)
     print(tmp)
     # input("Please Enter to Continue...")
