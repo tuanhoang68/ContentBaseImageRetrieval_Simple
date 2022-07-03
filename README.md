@@ -1,7 +1,7 @@
 # ContentBaseImageRetrieval_Simple
 Building a database system to store and search food photos based on CBIR (Content-Based Image Retrieval) technique with Python
 
-Choose 'master' option (not 'main') to view project.
+Choose 'master' branch (not 'main') to view project.
 
 
 The 'begin' folder and the 'venv' folder are the ones I use for testing and editing, so you don't need to worry about them.
