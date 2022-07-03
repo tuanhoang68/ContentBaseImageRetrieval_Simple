@@ -3,6 +3,13 @@ Building a database system to store and search food photos based on CBIR (Conten
 
 Choose 'master' option (not 'main') to view project.
 
+
+The 'begin' folder and the 'venv' folder are the ones I use for testing and editing, so you don't need to worry about it.
+The 'Image' folder contains all the images in the database and their background removed images.
+The 'final' folder contains all the code files and stores the feature vectors for retrieving our images.
+
+
+
 To install all required dependencies in this project:
   1. Open Terminal in path of this project
   2. Run 'pip3 install -r requirements.txt'
