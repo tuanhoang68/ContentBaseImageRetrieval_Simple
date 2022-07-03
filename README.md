@@ -11,7 +11,7 @@ The 'final' folder contains all the code files and stores the feature vectors fo
 
 
 To install all required dependencies in this project:
-  1. Open Terminal in path of this project
+  1. Open Terminal of this project in IDE.
   2. Run 'pip3 install -r requirements.txt'
   
 
