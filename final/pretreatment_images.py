@@ -5,8 +5,8 @@ import separate_background as sb
 import getFeaturesVetor as gFV
 
 
-path_image_original = 'C:/Users/ADM/Desktop/HK_8/He_CSDLDPT/btl_nhom3/Code/CBIR/Image/*.jpg'
-path_image_separeted = 'C:/Users/ADM/Desktop/HK_8/He_CSDLDPT/btl_nhom3/Code/CBIR/Image/*_Separate.jpg'
+path_image_original = 'CBIR/Image/*.jpg'
+path_image_separeted = 'CBIR/Image/*_Separate.jpg'
 path_feature_vectors = 'data_feature_vectors.npy'
 path_feature_vector_names = 'data_feature_vector_names.npy'
 
@@ -45,7 +45,7 @@ def Open_Feature_Vectors(path_feature_vectors):
 
 def main():
     # Save_Feature_Vectors()
-    # filepath = 'C:/Users/ADM/Desktop/HK_8/He_CSDLDPT/btl_nhom3/Code/CBIR/final/data_feature_vectors.npy'
+    # filepath = 'CBIR/final/data_feature_vectors.npy'
     # if os.path.exists(filepath) == True:
     #     print("Save file Success!")
     x = Open_Feature_Vectors(path_feature_vectors)
