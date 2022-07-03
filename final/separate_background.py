@@ -90,7 +90,7 @@ def Create_Separate_Background_Data_Trainning(path):
 
 
 def main():
-    path = "C:/Users/ADM/Desktop/HK_8/He_CSDLDPT/btl_nhom3/Code/CBIR/begin/ff.jpg"
+    path = "CBIR/begin/ff.jpg"
     path2 = path.replace(".jpg", end_name)
     Separate_Background(path)
     Separate_Background(path2)
